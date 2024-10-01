@@ -10,7 +10,7 @@ function App() {
       <div className="text w-full h-full text-white p-10 absolute top-96 left-36 leading-10 ">
         <h2 className="text-5xl mb-2">MY NAME IS</h2>
         <h1 className=" text-8xl text-thin mb-5">MAHE$H</h1>
-        <button className="py-4 px-10 bg-orange-400 text-2xl">I'M A UI UX DZ!NER & DEVELOPER</button>
+        <button className="py-4 px-5 bg-orange-400 text-2xl">I'M A UI UX DZ!NER & DEVELOPER</button>
       </div>
     </div>
 
